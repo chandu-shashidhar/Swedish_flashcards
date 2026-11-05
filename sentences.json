@@ -1,0 +1,1358 @@
+[
+  {
+    "swedish": "Hej, hur mår du?",
+    "english": "Hi, how are you?",
+    "sentence_sv": "Hej, hur mår du?",
+    "sentence_en": "Hi, how are you?"
+  },
+  {
+    "swedish": "Jag är trött idag.",
+    "english": "I am tired today.",
+    "sentence_sv": "Jag är trött idag.",
+    "sentence_en": "I am tired today."
+  },
+  {
+    "swedish": "Vad vill du äta?",
+    "english": "What do you want to eat?",
+    "sentence_sv": "Vad vill du äta?",
+    "sentence_en": "What do you want to eat?"
+  },
+  {
+    "swedish": "Jag vaknar tidigt varje morgon.",
+    "english": "I wake up early every morning.",
+    "sentence_sv": "Jag vaknar tidigt varje morgon.",
+    "sentence_en": "I wake up early every morning."
+  },
+  {
+    "swedish": "Hur går ditt arbete?",
+    "english": "How is your work going?",
+    "sentence_sv": "Hur går ditt arbete?",
+    "sentence_en": "How is your work going?"
+  },
+  {
+    "swedish": "Jag älskar att läsa böcker.",
+    "english": "I love reading books.",
+    "sentence_sv": "Jag älskar att läsa böcker.",
+    "sentence_en": "I love reading books."
+  },
+  {
+    "swedish": "Det regnar ute.",
+    "english": "It is raining outside.",
+    "sentence_sv": "Det regnar ute.",
+    "sentence_en": "It is raining outside."
+  },
+  {
+    "swedish": "Kan du hjälpa mig?",
+    "english": "Can you help me?",
+    "sentence_sv": "Kan du hjälpa mig?",
+    "sentence_en": "Can you help me?"
+  },
+  {
+    "swedish": "Jag bor i Stockholm.",
+    "english": "I live in Stockholm.",
+    "sentence_sv": "Jag bor i Stockholm.",
+    "sentence_en": "I live in Stockholm."
+  },
+  {
+    "swedish": "Hur länge stannar du här?",
+    "english": "How long are you staying here?",
+    "sentence_sv": "Hur länge stannar du här?",
+    "sentence_en": "How long are you staying here?"
+  },
+  {
+    "swedish": "Jag går till jobbet nu.",
+    "english": "I am going to work now.",
+    "sentence_sv": "Jag går till jobbet nu.",
+    "sentence_en": "I am going to work now."
+  },
+  {
+    "swedish": "Jag tycker om kaffe.",
+    "english": "I like coffee.",
+    "sentence_sv": "Jag tycker om kaffe.",
+    "sentence_en": "I like coffee."
+  },
+  {
+    "swedish": "Har du sett min telefon?",
+    "english": "Have you seen my phone?",
+    "sentence_sv": "Har du sett min telefon?",
+    "sentence_en": "Have you seen my phone?"
+  },
+  {
+    "swedish": "Jag behöver en kopp te.",
+    "english": "I need a cup of tea.",
+    "sentence_sv": "Jag behöver en kopp te.",
+    "sentence_en": "I need a cup of tea."
+  },
+  {
+    "swedish": "Vad är klockan?",
+    "english": "What time is it?",
+    "sentence_sv": "Vad är klockan?",
+    "sentence_en": "What time is it?"
+  },
+  {
+    "swedish": "Jag är sen.",
+    "english": "I am late.",
+    "sentence_sv": "Jag är sen.",
+    "sentence_en": "I am late."
+  },
+  {
+    "swedish": "Jag ska träffa vänner ikväll.",
+    "english": "I am meeting friends tonight.",
+    "sentence_sv": "Jag ska träffa vänner ikväll.",
+    "sentence_en": "I am meeting friends tonight."
+  },
+  {
+    "swedish": "Vill du gå ut och äta?",
+    "english": "Do you want to go out to eat?",
+    "sentence_sv": "Vill du gå ut och äta?",
+    "sentence_en": "Do you want to go out to eat?"
+  },
+  {
+    "swedish": "Jag måste gå hem nu.",
+    "english": "I have to go home now.",
+    "sentence_sv": "Jag måste gå hem nu.",
+    "sentence_en": "I have to go home now."
+  },
+  {
+    "swedish": "Det är varmt idag.",
+    "english": "It is warm today.",
+    "sentence_sv": "Det är varmt idag.",
+    "sentence_en": "It is warm today."
+  },
+  {
+    "swedish": "Vad ska du göra idag?",
+    "english": "What are you doing today?",
+    "sentence_sv": "Vad ska du göra idag?",
+    "sentence_en": "What are you doing today?"
+  },
+  {
+    "swedish": "Jag har ont i huvudet.",
+    "english": "I have a headache.",
+    "sentence_sv": "Jag har ont i huvudet.",
+    "sentence_en": "I have a headache."
+  },
+  {
+    "swedish": "Jag är sjuk.",
+    "english": "I am sick.",
+    "sentence_sv": "Jag är sjuk.",
+    "sentence_en": "I am sick."
+  },
+  {
+    "swedish": "Jag känner mig glad.",
+    "english": "I feel happy.",
+    "sentence_sv": "Jag känner mig glad.",
+    "sentence_en": "I feel happy."
+  },
+  {
+    "swedish": "Jag vill sova lite till.",
+    "english": "I want to sleep a little more.",
+    "sentence_sv": "Jag vill sova lite till.",
+    "sentence_en": "I want to sleep a little more."
+  },
+  {
+    "swedish": "Hur är vädret?",
+    "english": "How is the weather?",
+    "sentence_sv": "Hur är vädret?",
+    "sentence_en": "How is the weather?"
+  },
+  {
+    "swedish": "Jag bor nära parken.",
+    "english": "I live near the park.",
+    "sentence_sv": "Jag bor nära parken.",
+    "sentence_en": "I live near the park."
+  },
+  {
+    "swedish": "Letar du efter något?",
+    "english": "Are you looking for something?",
+    "sentence_sv": "Letar du efter något?",
+    "sentence_en": "Are you looking for something?"
+  },
+  {
+    "swedish": "Jag brukar ta bussen till jobbet.",
+    "english": "I usually take the bus to work.",
+    "sentence_sv": "Jag brukar ta bussen till jobbet.",
+    "sentence_en": "I usually take the bus to work."
+  },
+  {
+    "swedish": "Jag köpte nycklarna idag.",
+    "english": "I bought the keys today.",
+    "sentence_sv": "Jag köpte nycklarna idag.",
+    "sentence_en": "I bought the keys today."
+  },
+  {
+    "swedish": "Jag väntar på dig.",
+    "english": "I am waiting for you.",
+    "sentence_sv": "Jag väntar på dig.",
+    "sentence_en": "I am waiting for you."
+  },
+  {
+    "swedish": "Vi ses imorgon.",
+    "english": "See you tomorrow.",
+    "sentence_sv": "Vi ses imorgon.",
+    "sentence_en": "See you tomorrow."
+  },
+  {
+    "swedish": "Jag förstår inte.",
+    "english": "I do not understand.",
+    "sentence_sv": "Jag förstår inte.",
+    "sentence_en": "I do not understand."
+  },
+  {
+    "swedish": "Kan du säga det igen?",
+    "english": "Can you say that again?",
+    "sentence_sv": "Kan du säga det igen?",
+    "sentence_en": "Can you say that again?"
+  },
+  {
+    "swedish": "Jag är hungrig.",
+    "english": "I am hungry.",
+    "sentence_sv": "Jag är hungrig.",
+    "sentence_en": "I am hungry."
+  },
+  {
+    "swedish": "Jag behöver vatten.",
+    "english": "I need water.",
+    "sentence_sv": "Jag behöver vatten.",
+    "sentence_en": "I need water."
+  },
+  {
+    "swedish": "Jag har inte tid.",
+    "english": "I do not have time.",
+    "sentence_sv": "Jag har inte tid.",
+    "sentence_en": "I do not have time."
+  },
+  {
+    "swedish": "Kan du prata långsammare?",
+    "english": "Can you speak more slowly?",
+    "sentence_sv": "Kan du prata långsammare?",
+    "sentence_en": "Can you speak more slowly?"
+  },
+  {
+    "swedish": "Vad heter du?",
+    "english": "What is your name?",
+    "sentence_sv": "Vad heter du?",
+    "sentence_en": "What is your name?"
+  },
+  {
+    "swedish": "Jag heter Anna.",
+    "english": "My name is Anna.",
+    "sentence_sv": "Jag heter Anna.",
+    "sentence_en": "My name is Anna."
+  },
+  {
+    "swedish": "Jag gillar att träna.",
+    "english": "I like to exercise.",
+    "sentence_sv": "Jag gillar att träna.",
+    "sentence_en": "I like to exercise."
+  },
+  {
+    "swedish": "Jag tränar varje dag.",
+    "english": "I exercise every day.",
+    "sentence_sv": "Jag tränar varje dag.",
+    "sentence_en": "I exercise every day."
+  },
+  {
+    "swedish": "Jag föredrar te framför kaffe.",
+    "english": "I prefer tea to coffee.",
+    "sentence_sv": "Jag föredrar te framför kaffe.",
+    "sentence_en": "I prefer tea to coffee."
+  },
+  {
+    "swedish": "Det här smakar gott.",
+    "english": "This tastes good.",
+    "sentence_sv": "Det här smakar gott.",
+    "sentence_en": "This tastes good."
+  },
+  {
+    "swedish": "Jag köper mjölk och bröd.",
+    "english": "I am buying milk and bread.",
+    "sentence_sv": "Jag köper mjölk och bröd.",
+    "sentence_en": "I am buying milk and bread."
+  },
+  {
+    "swedish": "Kan du öppna fönstret?",
+    "english": "Can you open the window?",
+    "sentence_sv": "Kan du öppna fönstret?",
+    "sentence_en": "Can you open the window?"
+  },
+  {
+    "swedish": "Jag måste betala räkningen.",
+    "english": "I need to pay the bill.",
+    "sentence_sv": "Jag måste betala räkningen.",
+    "sentence_en": "I need to pay the bill."
+  },
+  {
+    "swedish": "Jag ska handla idag.",
+    "english": "I am going shopping today.",
+    "sentence_sv": "Jag ska handla idag.",
+    "sentence_en": "I am going shopping today."
+  },
+  {
+    "swedish": "Jag gillar att laga mat.",
+    "english": "I like cooking.",
+    "sentence_sv": "Jag gillar att laga mat.",
+    "sentence_en": "I like cooking."
+  },
+  {
+    "swedish": "Kan du rekommendera en restaurang?",
+    "english": "Can you recommend a restaurant?",
+    "sentence_sv": "Kan du rekommendera en restaurang?",
+    "sentence_en": "Can you recommend a restaurant?"
+  },
+  {
+    "swedish": "Jag vill boka ett bord.",
+    "english": "I want to book a table.",
+    "sentence_sv": "Jag vill boka ett bord.",
+    "sentence_en": "I want to book a table."
+  },
+  {
+    "swedish": "Hur mycket kostar det?",
+    "english": "How much does it cost?",
+    "sentence_sv": "Hur mycket kostar det?",
+    "sentence_en": "How much does it cost?"
+  },
+  {
+    "swedish": "Det är gratis.",
+    "english": "It is free.",
+    "sentence_sv": "Det är gratis.",
+    "sentence_en": "It is free."
+  },
+  {
+    "swedish": "Jag ska till läkaren.",
+    "english": "I am going to the doctor.",
+    "sentence_sv": "Jag ska till läkaren.",
+    "sentence_en": "I am going to the doctor."
+  },
+  {
+    "swedish": "Jag behöver ett recept.",
+    "english": "I need a prescription.",
+    "sentence_sv": "Jag behöver ett recept.",
+    "sentence_en": "I need a prescription."
+  },
+  {
+    "swedish": "Jag känner mig bättre nu.",
+    "english": "I feel better now.",
+    "sentence_sv": "Jag känner mig bättre nu.",
+    "sentence_en": "I feel better now."
+  },
+  {
+    "swedish": "Jag har huvudvärk.",
+    "english": "I have a headache.",
+    "sentence_sv": "Jag har huvudvärk.",
+    "sentence_en": "I have a headache."
+  },
+  {
+    "swedish": "Jag vill ligga ner en stund.",
+    "english": "I want to lie down for a while.",
+    "sentence_sv": "Jag vill ligga ner en stund.",
+    "sentence_en": "I want to lie down for a while."
+  },
+  {
+    "swedish": "Jag är glad för dig.",
+    "english": "I am happy for you.",
+    "sentence_sv": "Jag är glad för dig.",
+    "sentence_en": "I am happy for you."
+  },
+  {
+    "swedish": "Jag är nervös inför mötet.",
+    "english": "I am nervous before the meeting.",
+    "sentence_sv": "Jag är nervös inför mötet.",
+    "sentence_en": "I am nervous before the meeting."
+  },
+  {
+    "swedish": "Jag har ett test idag.",
+    "english": "I have a test today.",
+    "sentence_sv": "Jag har ett test idag.",
+    "sentence_en": "I have a test today."
+  },
+  {
+    "swedish": "Jag behöver koncentrera mig.",
+    "english": "I need to concentrate.",
+    "sentence_sv": "Jag behöver koncentrera mig.",
+    "sentence_en": "I need to concentrate."
+  },
+  {
+    "swedish": "Jag ska göra mina läxor.",
+    "english": "I am doing my homework.",
+    "sentence_sv": "Jag ska göra mina läxor.",
+    "sentence_en": "I am doing my homework."
+  },
+  {
+    "swedish": "Jag går till skolan.",
+    "english": "I am going to school.",
+    "sentence_sv": "Jag går till skolan.",
+    "sentence_en": "I am going to school."
+  },
+  {
+    "swedish": "Hur långt är det kvar?",
+    "english": "How much further is it?",
+    "sentence_sv": "Hur långt är det kvar?",
+    "sentence_en": "How much further is it?"
+  },
+  {
+    "swedish": "Jag vet inte var jag ska börja.",
+    "english": "I do not know where to start.",
+    "sentence_sv": "Jag vet inte var jag ska börja.",
+    "sentence_en": "I do not know where to start."
+  },
+  {
+    "swedish": "Det är väldigt trevligt att träffa dig.",
+    "english": "It is very nice to meet you.",
+    "sentence_sv": "Det är väldigt trevligt att träffa dig.",
+    "sentence_en": "It is very nice to meet you."
+  },
+  {
+    "swedish": "Jag kommer sent hem ikväll.",
+    "english": "I will come home late tonight.",
+    "sentence_sv": "Jag kommer sent hem ikväll.",
+    "sentence_en": "I will come home late tonight."
+  },
+  {
+    "swedish": "Jag hoppas du har det bra.",
+    "english": "I hope you are doing well.",
+    "sentence_sv": "Jag hoppas du har det bra.",
+    "sentence_en": "I hope you are doing well."
+  },
+  {
+    "swedish": "Jag vill gå på promenad.",
+    "english": "I want to go for a walk.",
+    "sentence_sv": "Jag vill gå på promenad.",
+    "sentence_en": "I want to go for a walk."
+  },
+  {
+    "swedish": "Det är kallt ute.",
+    "english": "It is cold outside.",
+    "sentence_sv": "Det är kallt ute.",
+    "sentence_en": "It is cold outside."
+  },
+  {
+    "swedish": "Jag vill ha lite vatten.",
+    "english": "I want some water.",
+    "sentence_sv": "Jag vill ha lite vatten.",
+    "sentence_en": "I want some water."
+  },
+  {
+    "swedish": "Jag har glömt min plånbok.",
+    "english": "I forgot my wallet.",
+    "sentence_sv": "Jag har glömt min plånbok.",
+    "sentence_en": "I forgot my wallet."
+  },
+  {
+    "swedish": "Kan du hjälpa mig att hitta stationen?",
+    "english": "Can you help me find the station?",
+    "sentence_sv": "Kan du hjälpa mig att hitta stationen?",
+    "sentence_en": "Can you help me find the station?"
+  },
+  {
+    "swedish": "Jag tar tåget till centrum.",
+    "english": "I take the train to the city center.",
+    "sentence_sv": "Jag tar tåget till centrum.",
+    "sentence_en": "I take the train to the city center."
+  },
+  {
+    "swedish": "Jag ska resa nästa vecka.",
+    "english": "I am traveling next week.",
+    "sentence_sv": "Jag ska resa nästa vecka.",
+    "sentence_en": "I am traveling next week."
+  },
+  {
+    "swedish": "Jag har bokat ett hotell.",
+    "english": "I booked a hotel.",
+    "sentence_sv": "Jag har bokat ett hotell.",
+    "sentence_en": "I booked a hotel."
+  },
+  {
+    "swedish": "Jag längtar hem.",
+    "english": "I miss home.",
+    "sentence_sv": "Jag längtar hem.",
+    "sentence_en": "I miss home."
+  },
+  {
+    "swedish": "Jag saknar dig.",
+    "english": "I miss you.",
+    "sentence_sv": "Jag saknar dig.",
+    "sentence_en": "I miss you."
+  },
+  {
+    "swedish": "Jag kommer snart.",
+    "english": "I am coming soon.",
+    "sentence_sv": "Jag kommer snart.",
+    "sentence_en": "I am coming soon."
+  },
+  {
+    "swedish": "Jag är inte hemma just nu.",
+    "english": "I am not home right now.",
+    "sentence_sv": "Jag är inte hemma just nu.",
+    "sentence_en": "I am not home right now."
+  },
+  {
+    "swedish": "Jag lever ensam.",
+    "english": "I live alone.",
+    "sentence_sv": "Jag lever ensam.",
+    "sentence_en": "I live alone."
+  },
+  {
+    "swedish": "Jag har mycket att göra.",
+    "english": "I have a lot to do.",
+    "sentence_sv": "Jag har mycket att göra.",
+    "sentence_en": "I have a lot to do."
+  },
+  {
+    "swedish": "Jag börjar sent idag.",
+    "english": "I am starting late today.",
+    "sentence_sv": "Jag börjar sent idag.",
+    "sentence_en": "I am starting late today."
+  },
+  {
+    "swedish": "Jag har slut på pengar.",
+    "english": "I am out of money.",
+    "sentence_sv": "Jag har slut på pengar.",
+    "sentence_en": "I am out of money."
+  },
+  {
+    "swedish": "Det här är väldigt viktigt.",
+    "english": "This is very important.",
+    "sentence_sv": "Det här är väldigt viktigt.",
+    "sentence_en": "This is very important."
+  },
+  {
+    "swedish": "Jag mår bra idag.",
+    "english": "I am feeling well today.",
+    "sentence_sv": "Jag mår bra idag.",
+    "sentence_en": "I am feeling well today."
+  },
+  {
+    "swedish": "Jag har sovit dåligt i natt.",
+    "english": "I did not sleep well last night.",
+    "sentence_sv": "Jag har sovit dåligt i natt.",
+    "sentence_en": "I did not sleep well last night."
+  },
+  {
+    "swedish": "Jag behöver en paus.",
+    "english": "I need a break.",
+    "sentence_sv": "Jag behöver en paus.",
+    "sentence_en": "I need a break."
+  },
+  {
+    "swedish": "Jag ska ringa min mor.",
+    "english": "I am going to call my mother.",
+    "sentence_sv": "Jag ska ringa min mor.",
+    "sentence_en": "I am going to call my mother."
+  },
+  {
+    "swedish": "Jag ska träffa min familj.",
+    "english": "I am going to see my family.",
+    "sentence_sv": "Jag ska träffa min familj.",
+    "sentence_en": "I am going to see my family."
+  },
+  {
+    "swedish": "Vi har ett möte klassen.",
+    "english": "We have a class meeting.",
+    "sentence_sv": "Vi har ett möte klassen.",
+    "sentence_en": "We have a class meeting."
+  },
+  {
+    "swedish": "Jag vill vara i fred.",
+    "english": "I want to be left alone.",
+    "sentence_sv": "Jag vill vara i fred.",
+    "sentence_en": "I want to be left alone."
+  },
+  {
+    "swedish": "Jag är mycket nöjd.",
+    "english": "I am very satisfied.",
+    "sentence_sv": "Jag är mycket nöjd.",
+    "sentence_en": "I am very satisfied."
+  },
+  {
+    "swedish": "Jag förstår inte vad du menar.",
+    "english": "I do not understand what you mean.",
+    "sentence_sv": "Jag förstår inte vad du menar.",
+    "sentence_en": "I do not understand what you mean."
+  },
+  {
+    "swedish": "Kan du visa mig vägen?",
+    "english": "Can you show me the way?",
+    "sentence_sv": "Kan du visa mig vägen?",
+    "sentence_en": "Can you show me the way?"
+  },
+  {
+    "swedish": "Jag vill köpa en present.",
+    "english": "I want to buy a gift.",
+    "sentence_sv": "Jag vill köpa en present.",
+    "sentence_en": "I want to buy a gift."
+  },
+  {
+    "swedish": "Jag söker efter ett bra ställe att äta.",
+    "english": "I am looking for a good place to eat.",
+    "sentence_sv": "Jag söker efter ett bra ställe att äta.",
+    "sentence_en": "I am looking for a good place to eat."
+  },
+  {
+    "swedish": "Jag är på väg till butiken.",
+    "english": "I am on my way to the store.",
+    "sentence_sv": "Jag är på väg till butiken.",
+    "sentence_en": "I am on my way to the store."
+  },
+  {
+    "swedish": "Jag vill ha en liten låda.",
+    "english": "I want a small box.",
+    "sentence_sv": "Jag vill ha en liten låda.",
+    "sentence_en": "I want a small box."
+  },
+  {
+    "swedish": "Jag är osäker.",
+    "english": "I am unsure.",
+    "sentence_sv": "Jag är osäker.",
+    "sentence_en": "I am unsure."
+  },
+  {
+    "swedish": "Jag har glömt mitt pass.",
+    "english": "I forgot my passport.",
+    "sentence_sv": "Jag har glömt mitt pass.",
+    "sentence_en": "I forgot my passport."
+  },
+  {
+    "swedish": "Jag vill ta en kopp kaffe.",
+    "english": "I want to have a coffee.",
+    "sentence_sv": "Jag vill ta en kopp kaffe.",
+    "sentence_en": "I want to have a coffee."
+  },
+  {
+    "swedish": "Jag har inte ätit än.",
+    "english": "I have not eaten yet.",
+    "sentence_sv": "Jag har inte ätit än.",
+    "sentence_en": "I have not eaten yet."
+  },
+  {
+    "swedish": "Jag ska laga middag.",
+    "english": "I am making dinner.",
+    "sentence_sv": "Jag ska laga middag.",
+    "sentence_en": "I am making dinner."
+  },
+  {
+    "swedish": "Det luktar gott.",
+    "english": "It smells good.",
+    "sentence_sv": "Det luktar gott.",
+    "sentence_en": "It smells good."
+  },
+  {
+    "swedish": "Jag går hem från jobbet.",
+    "english": "I am going home from work.",
+    "sentence_sv": "Jag går hem från jobbet.",
+    "sentence_en": "I am going home from work."
+  },
+  {
+    "swedish": "Jag har ett ärende att fixa.",
+    "english": "I have a task to take care of.",
+    "sentence_sv": "Jag har ett ärende att fixa.",
+    "sentence_en": "I have a task to take care of."
+  },
+  {
+    "swedish": "Vill du komma med?",
+    "english": "Do you want to come along?",
+    "sentence_sv": "Vill du komma med?",
+    "sentence_en": "Do you want to come along?"
+  },
+  {
+    "swedish": "Jag har fortfarande ont i ryggen.",
+    "english": "I still have back pain.",
+    "sentence_sv": "Jag har fortfarande ont i ryggen.",
+    "sentence_en": "I still have back pain."
+  },
+  {
+    "swedish": "Jag tror att jag glömde nycklarna.",
+    "english": "I think I forgot the keys.",
+    "sentence_sv": "Jag tror att jag glömde nycklarna.",
+    "sentence_en": "I think I forgot the keys."
+  },
+  {
+    "swedish": "Det är ganska sent.",
+    "english": "It is quite late.",
+    "sentence_sv": "Det är ganska sent.",
+    "sentence_en": "It is quite late."
+  },
+  {
+    "swedish": "Jag måste städa lägenheten.",
+    "english": "I need to clean the apartment.",
+    "sentence_sv": "Jag måste städa lägenheten.",
+    "sentence_en": "I need to clean the apartment."
+  },
+  {
+    "swedish": "Jag har inga planer för kvällen.",
+    "english": "I do not have any plans for the evening.",
+    "sentence_sv": "Jag har inga planer för kvällen.",
+    "sentence_en": "I do not have any plans for the evening."
+  },
+  {
+    "swedish": "Kan du skicka mig ett meddelande?",
+    "english": "Can you send me a message?",
+    "sentence_sv": "Kan du skicka mig ett meddelande?",
+    "sentence_en": "Can you send me a message?"
+  },
+  {
+    "swedish": "Jag har problem med internet.",
+    "english": "I have an internet problem.",
+    "sentence_sv": "Jag har problem med internet.",
+    "sentence_en": "I have an internet problem."
+  },
+  {
+    "swedish": "Jag kan inte komma imorgon.",
+    "english": "I cannot come tomorrow.",
+    "sentence_sv": "Jag kan inte komma imorgon.",
+    "sentence_en": "I cannot come tomorrow."
+  },
+  {
+    "swedish": "Jag hoppas vi ses snart.",
+    "english": "I hope we see each other soon.",
+    "sentence_sv": "Jag hoppas vi ses snart.",
+    "sentence_en": "I hope we see each other soon."
+  },
+  {
+    "swedish": "Jag är väldigt glad över det.",
+    "english": "I am very happy about that.",
+    "sentence_sv": "Jag är väldigt glad över det.",
+    "sentence_en": "I am very happy about that."
+  },
+  {
+    "swedish": "Jag behöver en ny jacka.",
+    "english": "I need a new jacket.",
+    "sentence_sv": "Jag behöver en ny jacka.",
+    "sentence_en": "I need a new jacket."
+  },
+  {
+    "swedish": "Jag köpte en ny bok igår.",
+    "english": "I bought a new book yesterday.",
+    "sentence_sv": "Jag köpte en ny bok igår.",
+    "sentence_en": "I bought a new book yesterday."
+  },
+  {
+    "swedish": "Vi har ett fint väder idag.",
+    "english": "We have nice weather today.",
+    "sentence_sv": "Vi har ett fint väder idag.",
+    "sentence_en": "We have nice weather today."
+  },
+  {
+    "swedish": "Jag vill gå till stranden.",
+    "english": "I want to go to the beach.",
+    "sentence_sv": "Jag vill gå till stranden.",
+    "sentence_en": "I want to go to the beach."
+  },
+  {
+    "swedish": "Jag tränar på gymmet.",
+    "english": "I am working out at the gym.",
+    "sentence_sv": "Jag tränar på gymmet.",
+    "sentence_en": "I am working out at the gym."
+  },
+  {
+    "swedish": "Jag har ett samtal kl. tre.",
+    "english": "I have a call at three o'clock.",
+    "sentence_sv": "Jag har ett samtal kl. tre.",
+    "sentence_en": "I have a call at three o'clock."
+  },
+  {
+    "swedish": "Jag kommer att vara hemma efter lunch.",
+    "english": "I will be home after lunch.",
+    "sentence_sv": "Jag kommer att vara hemma efter lunch.",
+    "sentence_en": "I will be home after lunch."
+  },
+  {
+    "swedish": "Jag vill läsa en tidning.",
+    "english": "I want to read a newspaper.",
+    "sentence_sv": "Jag vill läsa en tidning.",
+    "sentence_en": "I want to read a newspaper."
+  },
+  {
+    "swedish": "Jag har fått ett nytt jobb.",
+    "english": "I got a new job.",
+    "sentence_sv": "Jag har fått ett nytt jobb.",
+    "sentence_en": "I got a new job."
+  },
+  {
+    "swedish": "Jag är mycket nöjd med det.",
+    "english": "I am very pleased with it.",
+    "sentence_sv": "Jag är mycket nöjd med det.",
+    "sentence_en": "I am very pleased with it."
+  },
+  {
+    "swedish": "Jag är fortfarande på jobbet.",
+    "english": "I am still at work.",
+    "sentence_sv": "Jag är fortfarande på jobbet.",
+    "sentence_en": "I am still at work."
+  },
+  {
+    "swedish": "Jag letar efter ett rum att hyra.",
+    "english": "I am looking for a room to rent.",
+    "sentence_sv": "Jag letar efter ett rum att hyra.",
+    "sentence_en": "I am looking for a room to rent."
+  },
+  {
+    "swedish": "Jag kommer inom ett ögonblick.",
+    "english": "I will be there in a moment.",
+    "sentence_sv": "Jag kommer inom ett ögonblick.",
+    "sentence_en": "I will be there in a moment."
+  },
+  {
+    "swedish": "Jag vill ha ett större bord.",
+    "english": "I want a bigger table.",
+    "sentence_sv": "Jag vill ha ett större bord.",
+    "sentence_en": "I want a bigger table."
+  },
+  {
+    "swedish": "Jag förstår nu.",
+    "english": "I understand now.",
+    "sentence_sv": "Jag förstår nu.",
+    "sentence_en": "I understand now."
+  },
+  {
+    "swedish": "Jag behöver bara en minut.",
+    "english": "I just need one minute.",
+    "sentence_sv": "Jag behöver bara en minut.",
+    "sentence_en": "I just need one minute."
+  },
+  {
+    "swedish": "Jag har inga problem.",
+    "english": "I have no problems.",
+    "sentence_sv": "Jag har inga problem.",
+    "sentence_en": "I have no problems."
+  },
+  {
+    "swedish": "Jag ska tvätta kläderna.",
+    "english": "I am going to wash the clothes.",
+    "sentence_sv": "Jag ska tvätta kläderna.",
+    "sentence_en": "I am going to wash the clothes."
+  },
+  {
+    "swedish": "Jag har redan ätit.",
+    "english": "I have already eaten.",
+    "sentence_sv": "Jag har redan ätit.",
+    "sentence_en": "I have already eaten."
+  },
+  {
+    "swedish": "Det är dags att gå.",
+    "english": "It is time to go.",
+    "sentence_sv": "Det är dags att gå.",
+    "sentence_en": "It is time to go."
+  },
+  {
+    "swedish": "Jag är väldigt hungrig.",
+    "english": "I am very hungry.",
+    "sentence_sv": "Jag är väldigt hungrig.",
+    "sentence_en": "I am very hungry."
+  },
+  {
+    "swedish": "Jag vill ha hjälp med detta.",
+    "english": "I want help with this.",
+    "sentence_sv": "Jag vill ha hjälp med detta.",
+    "sentence_en": "I want help with this."
+  },
+  {
+    "swedish": "Kan du ta detta med dig?",
+    "english": "Can you take this with you?",
+    "sentence_sv": "Kan du ta detta med dig?",
+    "sentence_en": "Can you take this with you?"
+  },
+  {
+    "swedish": "Jag väntar på bussen.",
+    "english": "I am waiting for the bus.",
+    "sentence_sv": "Jag väntar på bussen.",
+    "sentence_en": "I am waiting for the bus."
+  },
+  {
+    "swedish": "Jag har glömt mitt lösenord.",
+    "english": "I forgot my password.",
+    "sentence_sv": "Jag har glömt mitt lösenord.",
+    "sentence_en": "I forgot my password."
+  },
+  {
+    "swedish": "Jag vill köpa biljetter.",
+    "english": "I want to buy tickets.",
+    "sentence_sv": "Jag vill köpa biljetter.",
+    "sentence_en": "I want to buy tickets."
+  },
+  {
+    "swedish": "Jag går till banken idag.",
+    "english": "I am going to the bank today.",
+    "sentence_sv": "Jag går till banken idag.",
+    "sentence_en": "I am going to the bank today."
+  },
+  {
+    "swedish": "Jag kommer tillbaka snart.",
+    "english": "I will be back soon.",
+    "sentence_sv": "Jag kommer tillbaka snart.",
+    "sentence_en": "I will be back soon."
+  },
+  {
+    "swedish": "Jag tycker att det här är roligt.",
+    "english": "I think this is fun.",
+    "sentence_sv": "Jag tycker att det här är roligt.",
+    "sentence_en": "I think this is fun."
+  },
+  {
+    "swedish": "Jag vill ha en längre paus.",
+    "english": "I want a longer break.",
+    "sentence_sv": "Jag vill ha en längre paus.",
+    "sentence_en": "I want a longer break."
+  },
+  {
+    "swedish": "Jag har bokat en flygbiljett.",
+    "english": "I have booked a flight.",
+    "sentence_sv": "Jag har bokat en flygbiljett.",
+    "sentence_en": "I have booked a flight."
+  },
+  {
+    "swedish": "Jag känner mig lite trött.",
+    "english": "I feel a little tired.",
+    "sentence_sv": "Jag känner mig lite trött.",
+    "sentence_en": "I feel a little tired."
+  },
+  {
+    "swedish": "Jag vill se filmen med dig.",
+    "english": "I want to watch the movie with you.",
+    "sentence_sv": "Jag vill se filmen med dig.",
+    "sentence_en": "I want to watch the movie with you."
+  },
+  {
+    "swedish": "Jag är ledsen för det.",
+    "english": "I am sorry about that.",
+    "sentence_sv": "Jag är ledsen för det.",
+    "sentence_en": "I am sorry about that."
+  },
+  {
+    "swedish": "Jag kommer att ringa dig senare.",
+    "english": "I will call you later.",
+    "sentence_sv": "Jag kommer att ringa dig senare.",
+    "sentence_en": "I will call you later."
+  },
+  {
+    "swedish": "Jag vill klippa mitt hår.",
+    "english": "I want to cut my hair.",
+    "sentence_sv": "Jag vill klippa mitt hår.",
+    "sentence_en": "I want to cut my hair."
+  },
+  {
+    "swedish": "Jag är redo att gå.",
+    "english": "I am ready to go.",
+    "sentence_sv": "Jag är redo att gå.",
+    "sentence_en": "I am ready to go."
+  },
+  {
+    "swedish": "Jag behöver din hjälp.",
+    "english": "I need your help.",
+    "sentence_sv": "Jag behöver din hjälp.",
+    "sentence_en": "I need your help."
+  },
+  {
+    "swedish": "Jag är inte säker.",
+    "english": "I am not sure.",
+    "sentence_sv": "Jag är inte säker.",
+    "sentence_en": "I am not sure."
+  },
+  {
+    "swedish": "Jag har fått ett meddelande.",
+    "english": "I received a message.",
+    "sentence_sv": "Jag har fått ett meddelande.",
+    "sentence_en": "I received a message."
+  },
+  {
+    "swedish": "Jag vill äta något snabbt.",
+    "english": "I want to eat something quickly.",
+    "sentence_sv": "Jag vill äta något snabbt.",
+    "sentence_en": "I want to eat something quickly."
+  },
+  {
+    "swedish": "Jag kommer till mötet klockan nio.",
+    "english": "I will arrive at the meeting at nine.",
+    "sentence_sv": "Jag kommer till mötet klockan nio.",
+    "sentence_en": "I will arrive at the meeting at nine."
+  },
+  {
+    "swedish": "Jag älskar den här platsen.",
+    "english": "I love this place.",
+    "sentence_sv": "Jag älskar den här platsen.",
+    "sentence_en": "I love this place."
+  },
+  {
+    "swedish": "Jag vill sitta ner en stund.",
+    "english": "I want to sit down for a while.",
+    "sentence_sv": "Jag vill sitta ner en stund.",
+    "sentence_en": "I want to sit down for a while."
+  },
+  {
+    "swedish": "Jag är ny här.",
+    "english": "I am new here.",
+    "sentence_sv": "Jag är ny här.",
+    "sentence_en": "I am new here."
+  },
+  {
+    "swedish": "Jag vill träffa mina vänner.",
+    "english": "I want to meet my friends.",
+    "sentence_sv": "Jag vill träffa mina vänner.",
+    "sentence_en": "I want to meet my friends."
+  },
+  {
+    "swedish": "Jag är mycket nöjd med mitt jobb.",
+    "english": "I am very happy with my job.",
+    "sentence_sv": "Jag är mycket nöjd med mitt jobb.",
+    "sentence_en": "I am very happy with my job."
+  },
+  {
+    "swedish": "Jag behöver lite frisk luft.",
+    "english": "I need some fresh air.",
+    "sentence_sv": "Jag behöver lite frisk luft.",
+    "sentence_en": "I need some fresh air."
+  },
+  {
+    "swedish": "Jag ska ta det lugnt idag.",
+    "english": "I am going to take it easy today.",
+    "sentence_sv": "Jag ska ta det lugnt idag.",
+    "sentence_en": "I am going to take it easy today."
+  },
+  {
+    "swedish": "Jag vill ha det här idag.",
+    "english": "I want this today.",
+    "sentence_sv": "Jag vill ha det här idag.",
+    "sentence_en": "I want this today."
+  },
+  {
+    "swedish": "Jag är orolig för dig.",
+    "english": "I am worried about you.",
+    "sentence_sv": "Jag är orolig för dig.",
+    "sentence_en": "I am worried about you."
+  },
+  {
+    "swedish": "Jag vill prata med dig.",
+    "english": "I want to talk to you.",
+    "sentence_sv": "Jag vill prata med dig.",
+    "sentence_en": "I want to talk to you."
+  },
+  {
+    "swedish": "Jag har fortfarande inte hittat det.",
+    "english": "I still have not found it.",
+    "sentence_sv": "Jag har fortfarande inte hittat det.",
+    "sentence_en": "I still have not found it."
+  },
+  {
+    "swedish": "Jag kommer att tänka på dig.",
+    "english": "I will think of you.",
+    "sentence_sv": "Jag kommer att tänka på dig.",
+    "sentence_en": "I will think of you."
+  },
+  {
+    "swedish": "Jag vill ha en god natts sömn.",
+    "english": "I want a good night's sleep.",
+    "sentence_sv": "Jag vill ha en god natts sömn.",
+    "sentence_en": "I want a good night's sleep."
+  },
+  {
+    "swedish": "Jag ska skriva ett meddelande.",
+    "english": "I am going to write a message.",
+    "sentence_sv": "Jag ska skriva ett meddelande.",
+    "sentence_en": "I am going to write a message."
+  },
+  {
+    "swedish": "Jag ville bara säga hej.",
+    "english": "I just wanted to say hi.",
+    "sentence_sv": "Jag ville bara säga hej.",
+    "sentence_en": "I just wanted to say hi."
+  },
+  {
+    "swedish": "Jag vill lära mig svenska.",
+    "english": "I want to learn Swedish.",
+    "sentence_sv": "Jag vill lära mig svenska.",
+    "sentence_en": "I want to learn Swedish."
+  },
+  {
+    "swedish": "Jag är på väg hem nu.",
+    "english": "I am on my way home now.",
+    "sentence_sv": "Jag är på väg hem nu.",
+    "sentence_en": "I am on my way home now."
+  },
+  {
+    "swedish": "Jag vill gå till biblioteket.",
+    "english": "I want to go to the library.",
+    "sentence_sv": "Jag vill gå till biblioteket.",
+    "sentence_en": "I want to go to the library."
+  },
+  {
+    "swedish": "Jag vill sova nu.",
+    "english": "I want to sleep now.",
+    "sentence_sv": "Jag vill sova nu.",
+    "sentence_en": "I want to sleep now."
+  },
+  {
+    "swedish": "Jag har en bra idé.",
+    "english": "I have a good idea.",
+    "sentence_sv": "Jag har en bra idé.",
+    "sentence_en": "I have a good idea."
+  },
+  {
+    "swedish": "Jag kommer om en stund.",
+    "english": "I will be there in a little while.",
+    "sentence_sv": "Jag kommer om en stund.",
+    "sentence_en": "I will be there in a little while."
+  },
+  {
+    "swedish": "Jag tycker att den här filmen är bra.",
+    "english": "I think this movie is good.",
+    "sentence_sv": "Jag tycker att den här filmen är bra.",
+    "sentence_en": "I think this movie is good."
+  },
+  {
+    "swedish": "Det är en lång dag.",
+    "english": "It is a long day.",
+    "sentence_sv": "Det är en lång dag.",
+    "sentence_en": "It is a long day."
+  },
+  {
+    "swedish": "Jag gillar att vara ute i naturen.",
+    "english": "I like being outdoors.",
+    "sentence_sv": "Jag gillar att vara ute i naturen.",
+    "sentence_en": "I like being outdoors."
+  },
+  {
+    "swedish": "Kan du hjälpa mig med bilen?",
+    "english": "Can you help me with the car?",
+    "sentence_sv": "Kan du hjälpa mig med bilen?",
+    "sentence_en": "Can you help me with the car?"
+  },
+  {
+    "swedish": "Jag kollar min e-post.",
+    "english": "I am checking my email.",
+    "sentence_sv": "Jag kollar min e-post.",
+    "sentence_en": "I am checking my email."
+  },
+  {
+    "swedish": "Jag är väldigt stressad.",
+    "english": "I am very stressed.",
+    "sentence_sv": "Jag är väldigt stressad.",
+    "sentence_en": "I am very stressed."
+  },
+  {
+    "swedish": "Jag behöver tänka efter.",
+    "english": "I need to think it over.",
+    "sentence_sv": "Jag behöver tänka efter.",
+    "sentence_en": "I need to think it over."
+  },
+  {
+    "swedish": "Jag vill lära mig mer.",
+    "english": "I want to learn more.",
+    "sentence_sv": "Jag vill lära mig mer.",
+    "sentence_en": "I want to learn more."
+  },
+  {
+    "swedish": "Jag har det bra.",
+    "english": "I am doing well.",
+    "sentence_sv": "Jag har det bra.",
+    "sentence_en": "I am doing well."
+  },
+  {
+    "swedish": "Jag vill delta i mötet.",
+    "english": "I want to join the meeting.",
+    "sentence_sv": "Jag vill delta i mötet.",
+    "sentence_en": "I want to join the meeting."
+  },
+  {
+    "swedish": "Jag har folk hos mig ikväll.",
+    "english": "I have people over tonight.",
+    "sentence_sv": "Jag har folk hos mig ikväll.",
+    "sentence_en": "I have people over tonight."
+  },
+  {
+    "swedish": "Jag kommer att lämna tidigt.",
+    "english": "I will leave early.",
+    "sentence_sv": "Jag kommer att lämna tidigt.",
+    "sentence_en": "I will leave early."
+  },
+  {
+    "swedish": "Jag vill ha lite tid för mig själv.",
+    "english": "I want some time for myself.",
+    "sentence_sv": "Jag vill ha lite tid för mig själv.",
+    "sentence_en": "I want some time for myself."
+  },
+  {
+    "swedish": "Jag har hört att du har flyttat.",
+    "english": "I heard you moved.",
+    "sentence_sv": "Jag har hört att du har flyttat.",
+    "sentence_en": "I heard you moved."
+  },
+  {
+    "swedish": "Jag önskar dig en trevlig dag.",
+    "english": "I wish you a nice day.",
+    "sentence_sv": "Jag önskar dig en trevlig dag.",
+    "sentence_en": "I wish you a nice day."
+  },
+  {
+    "swedish": "Jag kan komma senare idag.",
+    "english": "I can come later today.",
+    "sentence_sv": "Jag kan komma senare idag.",
+    "sentence_en": "I can come later today."
+  },
+  {
+    "swedish": "Jag är väldigt glad över att se dig.",
+    "english": "I am very glad to see you.",
+    "sentence_sv": "Jag är väldigt glad över att se dig.",
+    "sentence_en": "I am very glad to see you."
+  },
+  {
+    "swedish": "Jag kan hjälpa dig imorgon.",
+    "english": "I can help you tomorrow.",
+    "sentence_sv": "Jag kan hjälpa dig imorgon.",
+    "sentence_en": "I can help you tomorrow."
+  },
+  {
+    "swedish": "Jag vill vila lite.",
+    "english": "I want to rest a bit.",
+    "sentence_sv": "Jag vill vila lite.",
+    "sentence_en": "I want to rest a bit."
+  },
+  {
+    "swedish": "Jag behöver ett nytt par skor.",
+    "english": "I need a new pair of shoes.",
+    "sentence_sv": "Jag behöver ett nytt par skor.",
+    "sentence_en": "I need a new pair of shoes."
+  },
+  {
+    "swedish": "Det här är mycket bättre.",
+    "english": "This is much better.",
+    "sentence_sv": "Det här är mycket bättre.",
+    "sentence_en": "This is much better."
+  },
+  {
+    "swedish": "Jag vill ha min bok tillbaka.",
+    "english": "I want my book back.",
+    "sentence_sv": "Jag vill ha min bok tillbaka.",
+    "sentence_en": "I want my book back."
+  },
+  {
+    "swedish": "Jag måste lämna in den här blanketten.",
+    "english": "I need to submit this form.",
+    "sentence_sv": "Jag måste lämna in den här blanketten.",
+    "sentence_en": "I need to submit this form."
+  },
+  {
+    "swedish": "Jag har fått många nya idéer.",
+    "english": "I have gotten many new ideas.",
+    "sentence_sv": "Jag har fått många nya idéer.",
+    "sentence_en": "I have gotten many new ideas."
+  },
+  {
+    "swedish": "Jag ser fram emot helgen.",
+    "english": "I am looking forward to the weekend.",
+    "sentence_sv": "Jag ser fram emot helgen.",
+    "sentence_en": "I am looking forward to the weekend."
+  },
+  {
+    "swedish": "Jag är inte redo ännu.",
+    "english": "I am not ready yet.",
+    "sentence_sv": "Jag är inte redo ännu.",
+    "sentence_en": "I am not ready yet."
+  },
+  {
+    "swedish": "Jag har så mycket att säga.",
+    "english": "I have so much to say.",
+    "sentence_sv": "Jag har så mycket att säga.",
+    "sentence_en": "I have so much to say."
+  },
+  {
+    "swedish": "Jag vill bara vila.",
+    "english": "I just want to rest.",
+    "sentence_sv": "Jag vill bara vila.",
+    "sentence_en": "I just want to rest."
+  },
+  {
+    "swedish": "Jag behöver ta ett taxi.",
+    "english": "I need to take a taxi.",
+    "sentence_sv": "Jag behöver ta ett taxi.",
+    "sentence_en": "I need to take a taxi."
+  },
+  {
+    "swedish": "Jag önskar dig ett bra möte.",
+    "english": "I wish you a good meeting.",
+    "sentence_sv": "Jag önskar dig ett bra möte.",
+    "sentence_en": "I wish you a good meeting."
+  },
+  {
+    "swedish": "Jag kan ringa dig ikväll.",
+    "english": "I can call you tonight.",
+    "sentence_sv": "Jag kan ringa dig ikväll.",
+    "sentence_en": "I can call you tonight."
+  },
+  {
+    "swedish": "Jag har fått mycket hjälp.",
+    "english": "I have received a lot of help.",
+    "sentence_sv": "Jag har fått mycket hjälp.",
+    "sentence_en": "I have received a lot of help."
+  },
+  {
+    "swedish": "Jag vill göra det igen.",
+    "english": "I want to do it again.",
+    "sentence_sv": "Jag vill göra det igen.",
+    "sentence_en": "I want to do it again."
+  },
+  {
+    "swedish": "Jag behöver lite tid att tänka.",
+    "english": "I need some time to think.",
+    "sentence_sv": "Jag behöver lite tid att tänka.",
+    "sentence_en": "I need some time to think."
+  },
+  {
+    "swedish": "Jag är väldigt imponerad.",
+    "english": "I am very impressed.",
+    "sentence_sv": "Jag är väldigt imponerad.",
+    "sentence_en": "I am very impressed."
+  },
+  {
+    "swedish": "Jag har mycket att lära mig.",
+    "english": "I still have a lot to learn.",
+    "sentence_sv": "Jag har mycket att lära mig.",
+    "sentence_en": "I still have a lot to learn."
+  },
+  {
+    "swedish": "Jag älskar mitt hem.",
+    "english": "I love my home.",
+    "sentence_sv": "Jag älskar mitt hem.",
+    "sentence_en": "I love my home."
+  },
+  {
+    "swedish": "Jag känner mig utmattad.",
+    "english": "I feel exhausted.",
+    "sentence_sv": "Jag känner mig utmattad.",
+    "sentence_en": "I feel exhausted."
+  },
+  {
+    "swedish": "Jag vill ha en annan modell.",
+    "english": "I want a different model.",
+    "sentence_sv": "Jag vill ha en annan modell.",
+    "sentence_en": "I want a different model."
+  },
+  {
+    "swedish": "Jag kommer om fem minuter.",
+    "english": "I will be there in five minutes.",
+    "sentence_sv": "Jag kommer om fem minuter.",
+    "sentence_en": "I will be there in five minutes."
+  },
+  {
+    "swedish": "Jag är hemma nu.",
+    "english": "I am home now.",
+    "sentence_sv": "Jag är hemma nu.",
+    "sentence_en": "I am home now."
+  },
+  {
+    "swedish": "Jag förstår vad du menar.",
+    "english": "I understand what you mean.",
+    "sentence_sv": "Jag förstår vad du menar.",
+    "sentence_en": "I understand what you mean."
+  },
+  {
+    "swedish": "Jag vill gå till apoteket.",
+    "english": "I want to go to the pharmacy.",
+    "sentence_sv": "Jag vill gå till apoteket.",
+    "sentence_en": "I want to go to the pharmacy."
+  },
+  {
+    "swedish": "Jag hoppas att allt går bra.",
+    "english": "I hope everything goes well.",
+    "sentence_sv": "Jag hoppas att allt går bra.",
+    "sentence_en": "I hope everything goes well."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Swedish Flashcards",
+  "short_name": "Swedish Cards",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#0f766e",
+  "description": "Basic Swedish word and daily sentence practice for iPhone.",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

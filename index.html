@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <title>Swedish Flashcards</title>
+    <link rel="manifest" href="manifest.webmanifest?v=5" />
+    <link rel="stylesheet" href="styles.css?v=5" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Swedish practice</p>
+          <h1>Flashcards</h1>
+        </div>
+        <div class="badge" id="counter">1 / 1</div>
+      </header>
+
+      <section class="card" id="card">
+        <div class="card-front" id="frontText">det</div>
+        <div class="card-back hidden" id="backText">Source: lingvoberry • Rank 1</div>
+      </section>
+
+      <section class="controls">
+        <button class="primary" id="flipBtn">Show answer</button>
+        <div class="secondary-row">
+          <button class="soft" id="againBtn">Again</button>
+          <button class="soft" id="nextBtn">I knew it</button>
+        </div>
+        <div class="secondary-row">
+          <button class="soft" id="nextCardBtn">Next card</button>
+        </div>
+        <button class="soft" id="viewBtn">Switch to daily sentences</button>
+        <button class="soft" id="modeBtn">New words only: ON</button>
+        <button class="soft" id="resetBtn">Reset review</button>
+      </section>
+    </main>
+
+    <script src="app.js?v=5"></script>
+  </body>
+</html>
